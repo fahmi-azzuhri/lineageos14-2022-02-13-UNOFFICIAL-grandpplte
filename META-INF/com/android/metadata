@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=FILE
+post-build=Samsung/lineage_grandppltedx/grandppltedx:7.1.2/NJH47F/bb9e9a20f6:userdebug/test-keys
+post-timestamp=1644760474
+pre-device=grandppltedx
